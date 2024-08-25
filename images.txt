@@ -5,7 +5,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-eipwork/kuboard-agent:v3.5.1-arm64
-eipwork/kuboard-agent:v3.1.2-arm64
-eipwork/kuboard-agent:v3
+eipwork/kuboard:v3.5.2.4-arm64
+
 
